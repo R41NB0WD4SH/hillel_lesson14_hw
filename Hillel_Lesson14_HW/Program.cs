@@ -1,4 +1,6 @@
-﻿
+﻿using Microsoft.SqlServer;
+
+
 namespace Hillel_Lesson14_HW;
 
 class Prorgamm
@@ -7,7 +9,7 @@ class Prorgamm
     {
 
 
-
+        
 
         
         
